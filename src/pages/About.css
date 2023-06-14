@@ -10,11 +10,12 @@
 
 .left {
   left: 0;
-  background-color: #0f62fe;
+  background-color: rgb(27, 150, 27);
 }
 
 .right {
   right: 0;
+  background-color: rgba(0, 0, 0, 0.897);
 }
 
 .centered {
@@ -27,13 +28,14 @@
 
 .name_title {
   font-size: 48px;
-  color: black;
+  color: white;
   text-align: left;
   padding-bottom: 20px;
 }
 
 .brief_description {
   text-align: left;
+  color: white;
 }
 
 .profile_image {
